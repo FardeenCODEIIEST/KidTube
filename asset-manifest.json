@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KidTube/static/css/main.bb602408.css",
-    "main.js": "/KidTube/static/js/main.87834963.js",
+    "main.js": "/KidTube/static/js/main.d294c5c6.js",
     "static/js/453.cf510648.chunk.js": "/KidTube/static/js/453.cf510648.chunk.js",
     "index.html": "/KidTube/index.html",
     "main.bb602408.css.map": "/KidTube/static/css/main.bb602408.css.map",
-    "main.87834963.js.map": "/KidTube/static/js/main.87834963.js.map",
+    "main.d294c5c6.js.map": "/KidTube/static/js/main.d294c5c6.js.map",
     "453.cf510648.chunk.js.map": "/KidTube/static/js/453.cf510648.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb602408.css",
-    "static/js/main.87834963.js"
+    "static/js/main.d294c5c6.js"
   ]
 }
