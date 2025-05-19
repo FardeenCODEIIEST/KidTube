@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://<your-username>.github.io/kidtube",
+  "homepage": "https://github.com/FardeenCODEIIEST/KidTube",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
