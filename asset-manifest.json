@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FardeenCODEIIEST/KidTube/static/css/main.bb602408.css",
-    "main.js": "/FardeenCODEIIEST/KidTube/static/js/main.e25ca85a.js",
-    "static/js/453.cf510648.chunk.js": "/FardeenCODEIIEST/KidTube/static/js/453.cf510648.chunk.js",
-    "index.html": "/FardeenCODEIIEST/KidTube/index.html",
-    "main.bb602408.css.map": "/FardeenCODEIIEST/KidTube/static/css/main.bb602408.css.map",
-    "main.e25ca85a.js.map": "/FardeenCODEIIEST/KidTube/static/js/main.e25ca85a.js.map",
-    "453.cf510648.chunk.js.map": "/FardeenCODEIIEST/KidTube/static/js/453.cf510648.chunk.js.map"
+    "main.css": "/KidTube/static/css/main.bb602408.css",
+    "main.js": "/KidTube/static/js/main.b9c91816.js",
+    "static/js/453.cf510648.chunk.js": "/KidTube/static/js/453.cf510648.chunk.js",
+    "index.html": "/KidTube/index.html",
+    "main.bb602408.css.map": "/KidTube/static/css/main.bb602408.css.map",
+    "main.b9c91816.js.map": "/KidTube/static/js/main.b9c91816.js.map",
+    "453.cf510648.chunk.js.map": "/KidTube/static/js/453.cf510648.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb602408.css",
-    "static/js/main.e25ca85a.js"
+    "static/js/main.b9c91816.js"
   ]
 }
