@@ -97,7 +97,7 @@ function App() {
             title={currentVideo.title}
             width="100%"
             height="315"
-            src={`https://www.youtube.com/embed/${currentVideo.id}?rel=0&controls=0`}
+            src={`https://www.youtube.com/embed/${currentVideo.id}&rel=0&controls=0&modestbranding=1&showinfo=0`}
             allow="autoplay; encrypted-media"
             allowFullScreen
           ></iframe>
